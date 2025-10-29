@@ -5,26 +5,13 @@ description = "Working repository for LLM Engineer course"
 readme = "README.md"
 requires-python = "==3.13.*"
 dependencies = [
-    "beautifulsoup4>=4.14.2",
-    "corus>=0.10.0",
-    "fasttext>=0.9.3",
-    "gensim>=4.4.0",
-    "jupyterlab>=4.4.9",
-    "matplotlib>=3.10.7",
-    "navec>=0.10.0",
-    "nltk>=3.9.2",
-    "numpy>=2.3.3",
+    "jupyterlab>=4.4.10",
+    "numpy>=2.3.4",
     "pandas>=2.3.3",
-    "pymorphy3>=2.0.6",
-    "razdel>=0.5.0",
-    "requests>=2.32.5",
-    "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
-    "spacy>=3.8.7",
-    "sqlalchemy>=2.0.44",
-    "torch>=2.8.0",
-    "torchaudio>=2.8.0",
-    "torchvision>=0.23.0",
+    "torch>=2.9.0",
+    "torchaudio>=2.9.0",
+    "torchvision>=0.24.0",
 ]
 
 [dependency-groups]
