@@ -209,3 +209,6 @@ __marimo__/
 # Private directories due
 # to copyright
 **/private_cr/
+
+# Gemini CLI
+.gemini/
