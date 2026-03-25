@@ -1,0 +1,284 @@
+{
+  "items": [
+    {
+      "question": "Does taking ashwagandha actually help with stress?",
+      "gold_pmid": "36017529",
+      "gold_text": "We found that Ashwagandha supplementation significantly reduced anxiety (SMD: -1.55, 95% CI: -2.37, -0.74; p = .005; I(2)  = 93.8%) and stress level (SMD: -1.75; 95% CI: -2.29, -1.22; p = .005; I(2)  = 83.1%) compared to the placebo. Additionally, the non-linear dose-response analysis indicated a favorable effect of Ashwagandha supplementation on anxiety until 12,000 mg/d and stress at dose of 300-600 mg/d. Finally, we identified that the certainty of the evidence was low for both outcomes. The current systematic review and dose-response meta-analysis of RCTs revealed a beneficial effect in both stress and anxiety following Ashwagandha supplementation.",
+      "gold_title": "Does Ashwagandha supplementation have a beneficial effect on the management of anxiety and stress? A systematic review and meta-analysis of randomized controlled trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/36017529/"
+    },
+    {
+      "question": "effect of creatine monohydrate on memory in elderly",
+      "gold_pmid": "35984306",
+      "gold_text": "Overall, creatine supplementation improved measures of memory compared with placebo (standard mean difference [SMD] = 0.29, 95%CI, 0.04-0.53; I2 = 66%; P = 0.02). Subgroup analyses revealed a significant improvement in memory in older adults (66-76 years) (SMD = 0.88; 95%CI, 0.22-1.55; I2 = 83%; P = 0.009) compared with their younger counterparts (11-31 years) (SMD = 0.03; 95%CI, -0.14 to 0.20; I2 = 0%; P = 0.72). Creatine dose ( approximately  2.2-20 g/d), duration of intervention (5 days to 24 weeks), sex, or geographical origin did not influence the findings. CONCLUSION: Creatine supplementation enhanced measures of memory performance in healthy individuals, especially in older adults (66-76 years).",
+      "gold_title": "Effects of creatine supplementation on memory in healthy individuals: a systematic review and meta-analysis of randomized controlled trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/35984306/"
+    },
+    {
+      "question": "I've heard collagen helps wrinkles, but does the funding source of the study matter?",
+      "gold_pmid": "40324552",
+      "gold_text": "In a meta-analysis of all 23 RCTs, collagen supplements significantly improved skin hydration, elasticity, and wrinkles. However, in the subgroup meta-analysis by funding source, studies not receiving funding from pharmaceutical companies revealed no effect of collagen supplements for improving skin hydration, elasticity, and wrinkles, while those receiving funding from pharmaceutical companies did show significant effects. Similarly, high-quality studies revealed no significant effect in all categories, while low-quality studies revealed a significant improvement in elasticity.",
+      "gold_title": "Effects of Collagen Supplements on Skin Aging: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/40324552/"
+    },
+    {
+      "question": "Is Vit B12 efffective for depression if I don't have a deficiency?",
+      "gold_pmid": "33809274",
+      "gold_text": "Regarding cognitive function outcomes, we found no evidence for an effect of B12 alone or B complex supplementation on any subdomain of cognitive function outcomes. Further, meta-regression showed no significant associations of treatment effects with any of the potential predictors. We also found no overall effect of vitamin supplementation on measures of depression. Further, only one study reported effects on idiopathic fatigue, and therefore, no analysis was possible. Vitamin B12 supplementation is likely ineffective for improving cognitive function and depressive symptoms in patients without advanced neurological disorders.",
+      "gold_title": "Effects of Vitamin B12 Supplementation on Cognitive Function, Depressive Symptoms, and Fatigue: A Systematic Review, Meta-Analysis, and Meta-Regression.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/33809274/"
+    },
+    {
+      "question": "What supplements work best for dogs with arthritis? Is glucosamine good?",
+      "gold_pmid": "36142319",
+      "gold_text": "Fifty-seven articles were included, comprising 72 trials divided into nine different categories of natural health compound. The efficacy assessment, associated to the level of quality of each trial, presented an evident clinical analgesic efficacy for omega-3-enriched diets, omega-3 supplements and cannabidiol (to a lesser degree). Our analyses showed a weak efficacy of collagen and a very marked non-effect of chondroitin-glucosamine nutraceuticals, which leads us to recommend that the latter products should no longer be recommended for pain management in canine and feline osteoarthritis.",
+      "gold_title": "A 2022 Systematic Review and Meta-Analysis of Enriched Therapeutic Diets and Nutraceuticals in Canine and Feline Osteoarthritis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/36142319/"
+    },
+    {
+      "question": "Scientific evidence regarding Vitamin B2 prophylaxis for migraine frequency reduction.",
+      "gold_pmid": "33779525",
+      "gold_text": "Eight randomized controlled trials and one controlled clinical trial with 673 subjects were analyzed using meta-analysis. Vitamin B2 supplementation significantly decreased migraine days (p = .005, I(2) = 89%), duration (p = .003, I(2) = 0), frequency (p = .001, I(2) = 65%), and pain score (p = .015, I(2) = 84%). CONCLUSIONS: A pooled analysis of available randomized controlled clinical trials demonstrated that Vitamin B2 400 mg/day for three months supplementation had significant effect on days, duration, frequency, and pain score of migraine attacks.",
+      "gold_title": "Effect of Vitamin B2 supplementation on migraine prophylaxis: a systematic review and meta-analysis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/33779525/"
+    },
+    {
+      "question": "can saccharomyces boulardii prevent antibiotic associated diarrhea?",
+      "gold_pmid": "20458757",
+      "gold_text": "Of 31 randomized, placebo-controlled treatment arms in 27 trials (encompassing 5029 study patients), S. boulardii was found to be significantly efficacious and safe in 84% of those treatment arms. A meta-analysis found a significant therapeutic efficacy for S. boulardii in the prevention of antibiotic-associated diarrhea (AAD) (RR = 0.47, 95% CI: 0.35-0.63, P < 0.001). In adults, S. boulardii can be strongly recommended for the prevention of AAD and the traveler's diarrhea.",
+      "gold_title": "Systematic review and meta-analysis of Saccharomyces boulardii in adult patients.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/20458757/"
+    },
+    {
+      "question": "Does creatine help with endurance running or just lifting?",
+      "gold_pmid": "36877404",
+      "gold_text": "A total of 13 studies satisfied all the eligibility criteria and were included in this systematic review and meta-analysis. The results for the pooled meta-analysis showed a non-significant change in endurance performance after creatine monohydrate supplementation in a trained population (p = 0.47), with a trivial negative effect (pooled standardized mean difference = - 0.07 [95% confidence interval - 0.32 to 0.18]; I(2) = 34.75%). Further, after excluding the studies not evenly distributed around the base of the funnel plot, the results were similar (pooled standardized mean difference = - 0.07 [95% confidence interval - 0.27 to 0.13]; I(2) = 0%; p = 0.49).",
+      "gold_title": "Effects of Creatine Monohydrate on Endurance Performance in a Trained Population: A Systematic Review and Meta-analysis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/36877404/"
+    },
+    {
+      "question": "Dietary interventions for endometriosis pain management systematic review",
+      "gold_pmid": "39358652",
+      "gold_text": "Eleven RCTs were included in the systematic review, with 716 women randomized. Most studies reported a positive effect on endometriosis pain scores; however, they were characterized by moderate or high-risk bias. Of these, six RCTs, including 457 women with endometriosis, were included in the meta-analysis. Compared with Placebo, antioxidant use was associated with a reduction in dysmenorrhea (mean difference - 1.95 [CI 95%, -3.78 to -0.13]. Supplementation was not significant for reducing chronic pelvic pain (mean difference - 2.22 [95% CI, -4.99 to 0.55] and dyspareunia (MD - 2.56 [95% CI, - 5. 22 to 0.10]. Both analyses showed a high degree of heterogeneity. Moreover, studies with low risk of bias did not show significant results compared to those on Placebo.",
+      "gold_title": "Effect of Dietary Interventions on Endometriosis: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/39358652/"
+    },
+    {
+      "question": "My kid has asthma, will vitamin D reduce attacks?",
+      "gold_pmid": "39421966",
+      "gold_text": "Ten relevant studies enrolled 1243 asthmatic children (631 children receiving vitamin D3 supplementation, 612 children receiving placebo) were included in this review. Our pooled analysis found that VD supplementation had a significant effect on lowering the total number of asthma exacerbations (RR 0.62; 95% CI: 0.44, 0.87; p = 0.01). Subgroup analysis revealed that a daily dose of VD given based on standard daily dose recommendation had a significant improvement on asthma exacerbations [(RR 0.41; 95% CI: 0,18, 0,92; p = 0.03). CONCLUSIONS: Vitamin D supplementation can lower the occurrence of exacerbations in children with asthma, along with the improvement of FEV1.",
+      "gold_title": "Vitamin D supplementation decrease asthma exacerbations in children: a systematic review and meta-analysis of randomized controlled trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/39421966/"
+    },
+    {
+      "question": "Can taking B vitamins prevent dementia by lowering homocysteine levels?",
+      "gold_pmid": "34432056",
+      "gold_text": "This meta-analysis supports that B vitamins can benefit cognitive function as measured by Mini-Mental State Examination score changes (6155 participants; MD, 0.14, 95%CI 0.04 to 0.23), and this result was also significant in studies where placebo groups developed cognitive decline (4211 participants; MD, 0.16, 95%CI 0.05 to 0.26), suggesting that B vitamins slow cognitive decline. For the > 12 months interventional period stratum, B vitamin supplementation decreased cognitive decline",
+      "gold_title": "B vitamins and prevention of cognitive decline and incident dementia: a systematic review and meta-analysis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/34432056/"
+    },
+    {
+      "question": "Effects of probiotics on intestinal barrier function and inflammation markers like CRP.",
+      "gold_pmid": "37168869",
+      "gold_text": "Meta-analysis of data from a total of 26 RCTs (n = 1891) indicated that probiotics significantly improved gut barrier function measured by levels of TER (MD, 5.27, 95% CI, 3.82 to 6.72, P < 0.00001), serum zonulin (SMD, -1.58, 95% CI, -2.49 to -0.66, P = 0.0007), endotoxin (SMD, -3.20, 95% CI, -5.41 to -0.98, P = 0.005), and LPS (SMD, -0.47, 95% CI, -0.85 to -0.09, P = 0.02). Furthermore, probiotic groups demonstrated better efficacy over control groups in reducing inflammatory factors, including CRP, TNF-alpha, and IL-6. Probiotics can also modulate the gut microbiota structure by boosting the enrichment of Bifidobacterium and Lactobacillus.",
+      "gold_title": "Probiotics fortify intestinal barrier function: a systematic review and meta-analysis of randomized trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/37168869/"
+    },
+    {
+      "question": "skin supplements for kids with eczema but no food allergies",
+      "gold_pmid": "38783644",
+      "gold_text": "The review encompassed 27 RCTs examining prebiotics, Vitamin D, evening primrose oil, and substituting cow's milk formula with partially hydrolyzed whey milk formula. A meta-analysis of 20 RCTs assessing probiotics, alone or combined with prebiotics, revealed a significant reduction in SCORAD scores, suggesting a consistent trend in alleviating AD symptoms in children without food allergies. Nonetheless, evidence for other dietary interventions remains limited",
+      "gold_title": "A systematic review and meta-analysis of nutritional and dietary interventions in randomized controlled trials for skin symptoms in children with atopic dermatitis and without food allergy: An EAACI task force report.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/38783644/"
+    },
+    {
+      "question": "Do antioxidant vitamins reduce pelvic pain in endometriosis patients?",
+      "gold_pmid": "37644533",
+      "gold_text": "We identified 11 studies that evaluated the effect of antioxidant vitamins supplementation on endometriosis-related pain. The results indicated that the supplementation of antioxidant vitamins can effectively alleviate endometriosis-related pain. Subgroup analysis showed that the supplementation of vitamin E (with or without vitamin C) had a positive effect on improving clinical pelvic pain in patients with chronic pelvic pain. Conversely, supplementation of vitamin D was associated with a reduction in pelvic pain in endometriosis patients, but the difference was not statistically significant compared to the placebo.",
+      "gold_title": "Antioxidant vitamins supplementation reduce endometriosis related pelvic pain in humans: a systematic review and meta-analysis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/37644533/"
+    },
+    {
+      "question": "Results of the COSMOS trial regarding multivitamin effects on memory in older adults.",
+      "gold_pmid": "38244989",
+      "gold_text": "In COSMOS-Clinic, we observed a modest benefit of MVM compared with placebo on global cognition over 2 y mean difference [95% confidence interval (CI)] = 0.06 SD units (SU) (-0.003, 0.13), with a significantly more favorable change in episodic memory [mean difference (95% CI) = 0.12 SU (0.002, 0.23)] but not in executive function or attention [mean difference (95% CI) = 0.04 SU (-0.04, 0.11)]. The meta-analysis of COSMOS substudies showed clear evidence of MVM benefits on global cognition [mean difference (95% CI) = 0.07 SU (0.03, 0.11); P = 0.0009] and episodic memory [mean difference (95% CI) = 0.06 SU (0.03, 0.10); P = 0.0007];",
+      "gold_title": "Effect of multivitamin-mineral supplementation versus placebo on cognitive function: results from the clinic subcohort of the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial and meta-analysis of 3 cognitive studies within COSMOS.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/38244989/"
+    },
+    {
+      "question": "Do B vitamins help with stress in healthy people?",
+      "gold_pmid": "31527485",
+      "gold_text": "Eleven of the 18 articles reported a positive effect for B vitamins over a placebo for overall mood or a facet of mood. Of the eight studies in 'at-risk' cohorts, five found a significant benefit to mood. Regarding individual facets of mood, B vitamin supplementation benefited stress (n = 958, SMD = 0.23, 95% CI = 0.02, 0.45, p = 0.03). A benefit to depressive symptoms did not reach significance (n = 568, SMD = 0.15, 95% CI = -0.01, 0.32, p = 0.07), and there was no effect on anxiety (n = 562, SMD = 0.03, 95% CI = -0.13, 0.20, p = 0.71). The review provides evidence for the benefit of B vitamin supplementation in healthy and at-risk populations for stress, but not for depressive symptoms or anxiety.",
+      "gold_title": "A Systematic Review and Meta-Analysis of B Vitamin Supplementation on Depressive Symptoms, Anxiety, and Stress: Effects on Healthy and 'At-Risk' Individuals.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/31527485/"
+    },
+    {
+      "question": "Are there any over the counter supplements that actully work for ED?",
+      "gold_pmid": "37686709",
+      "gold_text": "A systematic review of the literature was performed to evaluate the effect of DS and to detect the active ingredients able to improve erectile function-called effective ingredients (EIs)-and their minimal effective daily dose (mED). A metanalysis identified some nutraceuticals, such as Panax ginseng, Tribulus terrestris and L-arginine, that are able to improve male sexual function. Based on the scoring system, 2 (8%) supplements matched with the cluster of higher expected efficacy, 3 (12%) with the lower efficacy cluster and 20 (80%) matched with the criterion of no expected efficacy.",
+      "gold_title": "Dietary Supplements for Erectile Dysfunction: Analysis of Marketed Products, Systematic Review, Meta-Analysis and Rational Use.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/37686709/"
+    },
+    {
+      "question": "Safety of vitamin B supplementation during cancer treatment.",
+      "gold_pmid": "37231628",
+      "gold_text": "Out of 694 articles initially identified, 25 articles met the inclusion criteria and were included in the review. Designs of the studies varied, including randomized control trials, clinical trials, and case/cohort studies. The impact of vitamin supplementation on cancer risk varied. Several studies found that certain B vitamin supplementation lowered cancer risk: B9 and B6 in nasopharyngeal carcinoma (n = 1200 patients) and in pancreatic cancer (n = 258 patients); B3 in hepatocellular carcinoma (n = 494,860 patients); B6 in breast cancer (n = 27,853 patien",
+      "gold_title": "Safety and efficacy of vitamin B in cancer treatments: A systematic review.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/37231628/"
+    },
+    {
+      "question": "does vit d help with atopic dermatitis severity?",
+      "gold_pmid": "39683522",
+      "gold_text": "Eleven RCTs with 686 participants were included. The included trials had measured AD severity by using the SCOring Atopic Dermatitis (SCORAD) or the Eczema Area and Severity Index (EASI). Vitamin D supplementation significantly reduced AD severity compared with the control group (standardized mean difference = -0.41, 95% CI: -0.67 to -0.16, I(2) = 58%, p < 0.01). CONCLUSIONS: Vitamin D supplementation reduces AD severity in children and adults.",
+      "gold_title": "Vitamin D Supplementation for Treating Atopic Dermatitis in Children and Adults: A Systematic Review and Meta-Analysis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/39683522/"
+    },
+    {
+      "question": "Review of multivitamins for preventing heart disease and stroke.",
+      "gold_pmid": "33509399",
+      "gold_text": "This updated review shows similar findings to the previous report for preventive benefits from both folic acid and B vitamins for stroke and has been graded with moderate quality. No effect was seen for the commonly used multivitamins, vitamin D, calcium, and vitamin C, and an increased risk was seen with niacin (with statin) for all-cause mortality. Conclusive evidence for the benefit of supplements across different dietary backgrounds, when the nutrient is sufficient, has not been demonstrated.",
+      "gold_title": "Supplemental Vitamins and Minerals for Cardiovascular Disease Prevention and Treatment: JACC Focus Seminar.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/33509399/"
+    },
+    {
+      "question": "Can gut bacteria supplements improve depressive symptoms?",
+      "gold_pmid": "27509521",
+      "gold_text": "The meta-analysis showed that probiotics significantly decreased the depression scale score (MD (depressive disorder) = -0.30, 95% CI (-0.51--0.09), p = 0.005) in the subjects. Probiotics had an effect on both the healthy population (MD = -0.25, 95% CI (-0.47--0.03), p = 0.03) and patients with major depressive disorder (MDD) (MD = -0.73, 95% CI (-1.37--0.09), p = 0.03). Probiotics had an effect on the population aged under 60 (MD = -0.43, 95% CI (-0.72--0.13), p = 0.005), while it had no effect on people aged over 65 (MD = -0.18, 95% CI (-0.47-0.11), p = 0.22).",
+      "gold_title": "Effect of Probiotics on Depression: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/27509521/"
+    },
+    {
+      "question": "Impact of multiple micronutrient supplementation vs iron-folic acid on birth outcomes in low-income countries.",
+      "gold_pmid": "32075071",
+      "gold_text": "Seventy-two studies, which collectively involved 314 papers (451,723 women), were included. Meta-analyses showed improvement in several key birth outcomes, such as preterm birth, small-for-gestational age (SGA) and low birthweight with MMN supplementation, compared to IFA. MMN also improved child outcomes, including diarrhea incidence and retinol concentration, which are findings not previously reported. Across all comparisons, micronutrient supplementation had little to no effect on mortality (maternal, neonatal, perinatal, and infant) outcomes, which is consistent with other systematic reviews.",
+      "gold_title": "Vitamin and Mineral Supplementation During Pregnancy on Maternal, Birth, Child Health and Development Outcomes in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/32075071/"
+    },
+    {
+      "question": "effect of mg on crp levels",
+      "gold_pmid": "35277037",
+      "gold_text": "Among 2484 papers initially screened, 17 randomized controlled trials (889 participants; mean age: 46 years; females: 62.5%) were included. Generally, a low risk of bias was present. In meta-analysis, Mg supplementation significantly decreased serum C reactive protein (CRP) and increased nitric oxide (NO) levels. In descriptive findings, Mg supplementation significantly reduced plasma fibrinogen, tartrate-resistant acid phosphatase type 5, tumor necrosis factor-ligand superfamily member 13B, ST2 protein, and IL-1. In conclusion, Mg supplementation may significantly reduce different human inflammatory markers, in particular serum CRP and NO levels.",
+      "gold_title": "Effect of Magnesium Supplementation on Inflammatory Parameters: A Meta-Analysis of Randomized Controlled Trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/35277037/"
+    },
+    {
+      "question": "How do minerals like zinc and selenium affect female fertility and IVF outcomes?",
+      "gold_pmid": "39683462",
+      "gold_text": "From an initial pool of 20,830 records, 39 articles met the inclusion criteria and were analyzed. The studies addressed various reproductive outcomes influenced by minerals: embryo development, oocyte quality, oxidative stress, miscarriage, hormonal regulation, IVF outcomes, environmental exposure, and minerals as biomarkers. The analysis revealed that minerals like selenium, zinc, and copper are essen",
+      "gold_title": "The Impact of Minerals on Female Fertility: A Systematic Review.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/39683462/"
+    },
+    {
+      "question": "preventing gestational diabetes with myo-inositol",
+      "gold_pmid": "35889788",
+      "gold_text": "Compared with the control group, 4 g myo-inositol (MI) supplementation per day significantly decreased the incidence of GDM (RR = 0.30, 95% CI (0.18, 0.49), p < 0.00001). It significantly decreased the plasma glucose levels of OGTT regarding fasting-glucose OGTT (MD = -4.20, 95% CI (-5.87, -2.54), p < 0.00001), 1-h OGTT (MD = -8.75, 95% CI (-12.42, -5.08), p < 0.00001), and 2-h OGTT (MD = -8.59, 95% CI (-11.81, -5.83), p < 0.00001). It also decreased the need of insulin treatment, and reduced the incidence of preterm delivery and neonatal hypoglycemia. However, no difference was observed between 1.1 g MI per day plus 27.6 mg D-chiro-inositol (DCI) per day and the control group regarding all evaluated results.",
+      "gold_title": "Inositol Nutritional Supplementation for the Prevention of Gestational Diabetes Mellitus: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/35889788/"
+    },
+    {
+      "question": "Does garlic supplementation reduce gastric cancer mortality in H. pylori patients?",
+      "gold_pmid": "31511230",
+      "gold_text": "Incidence decreased significantly with vitamin supplementation but not with garlic supplementation (0.64, 0.46 to 0.91 and 0.81, 0.57 to 1.13, respectively). All three interventions showed significant reductions in gastric cancer mortality: fully adjusted hazard ratio",
+      "gold_title": "Effects of Helicobacter pylori treatment and vitamin and garlic supplementation on gastric cancer incidence and mortality: follow-up of a randomized intervention trial.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/31511230/"
+    },
+    {
+      "question": "Is HMB effective for preventing muscle wasting in clinical conditions?",
+      "gold_pmid": "30982854",
+      "gold_text": "Meta-analysis revealed some evidence to support the effect of HMB alone, or supplements containing HMB, on increasing skeletal muscle mass (SMD = 0.25; 95% CI: -0.00, 0.50; z = 1.93; P = 0.05; I2 = 58%) and strong evidence to support improving muscle strength (SMD = 0.31; 95% CI: 0.12, 0.50; z = 3.25; P = 0.001; I2 = 0%). Effect sizes were small. No effect on bodyweight (SMD = 0.16; 95% CI: -0.08, 0.41; z = 1.34; P = 0.18; I2 = 67%) or any other outcome was found. No study was considered to have low risk of bias in all categories. CONCLUSION: HMB, and supplements containing HMB, increased muscle mass and strength in a variety of clinic",
+      "gold_title": "beta-Hydroxy-beta-methylbutyrate and its impact on skeletal muscle mass and physical function in clinical practice: a systematic review and meta-analysis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/30982854/"
+    },
+    {
+      "question": "omega 3 for alzheimers cognitive function",
+      "gold_pmid": "28986068",
+      "gold_text": "We conducted a systematic review and meta-analysis of clinical trials evaluating omega-3 supplementation in patients with AD. ... CONCLUSION: There is no consistent evidence to support the effectiveness of omega-3 supplementation in improving cognitive function in AD patients in the short and medium term.",
+      "gold_title": "Effectiveness of omega-3 fatty acid supplementation in patients with Alzheimer disease: A systematic review and meta-analysis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/28986068/"
+    },
+    {
+      "question": "Do zinc or vitamin A help treat acute respiratory infections in children?",
+      "gold_pmid": "38174413",
+      "gold_text": "The results of individual studies on the efficacy of these interventions were mixed, with some showing positive effects on clinical outcomes such as duration of symptoms, while others showed no significant impact. Meta-analysis was conducted for zinc supplementation in children with pneumonia, and the pooled results suggested a potential limited benefit in terms of reduced hospital length of stay but not time to recovery.",
+      "gold_title": "A systematic review and meta-analysis on nutritional and dietary interventions for the treatment of acute respiratory infection in pediatric patients: An EAACI taskforce.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/38174413/"
+    },
+    {
+      "question": "Can vitamin D improve FEV1 in COPD patients?",
+      "gold_pmid": "38613061",
+      "gold_text": "A total of 43 RCTs fulfilled the inclusion criteria of this study. Meta-analysis revealed that vitamin D supplementation could significantly improve FEV1% (WMD(differences between baseline and post-intervention (de)): 6.39, 95% CI: 4.59, 8.18, p < 0.01; WMD(post-intervention indicators (af)): 7.55, 95% CI: 5.86, 9.24, p < 0.01) and FEV1/FVC% (WMD(de): 6.88, 95%CI: 2.11, 11.65, WMD(af): 7.64, 95% CI: 3.18, 12.10, p < 0.001), decrease the odds of acute exacerbations, and improve the level of T-cell subsets",
+      "gold_title": "Improvement of Lung Function by Micronutrient Supplementation in Patients with COPD: A Systematic Review and Meta-Analysis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/38613061/"
+    },
+    {
+      "question": "i want to lose weight does l-carnitine work?",
+      "gold_pmid": "27335245",
+      "gold_text": "Results from meta-analysis of eligible trials revealed that subjects who received carnitine lost significantly more weight (MD: -1.33 kg; 95% CI: -2.09 to -0.57) and showed a decrease in body mass index (MD: -0.47 kg m(-2) ; 95% CI: -0.88 to -0.05) compared with the control group. The results of meta-regression analysis of duration of consumption revealed that the magnitude of weight loss resulted by carnitine supplementation significantly decreased over time (p = 0.002). We conclude that receiving the carnitine resulted in weight loss.",
+      "gold_title": "The effect of (L-)carnitine on weight loss in adults: a systematic review and meta-analysis of randomized controlled trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/27335245/"
+    },
+    {
+      "question": "Combined effect of protein supplements and exercise on frailty in the elderly.",
+      "gold_pmid": "39955964",
+      "gold_text": "Combined protein and exercise interventions demonstrated significant improvements in skeletal muscle index (MD = 0.89 kg/m(2), 95 % CI: 0.45 to 1.33) and handgrip strength (MD: +2.64 kg, 95 % CI: +0.75 to +4.53) compared to exercise alone. Protein supplementation alone showed modest benefits in muscle strength but limited effects on physical performance. No serious adverse events were reported. CONCLUSIONS: While protein supplementation combined with exercise shows promising effects on muscle mass and strength in older adults with sarcopenia or physical frailty, the evidence quality was consistently rated as very low.",
+      "gold_title": "Protein supplementation alone or combined with exercise for sarcopenia and physical frailty: A systematic review and meta-analysis of randomized controlled trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/39955964/"
+    },
+    {
+      "question": "Does taking vitamin D prevent you from getting type 2 diabetes?",
+      "gold_pmid": "40199888",
+      "gold_text": "T2D incidence (cases/1000py) at median follow-up of 5.3 y was 3.98 for vitamin D and 4.37 for placebo (hazard ratio [HR] = 0.91; 95% confidence interval [CI] = 0.76, 1.09). Results did not differ by age, sex, BMI, or baseline 25-hydroxyvitamin D, and vitamin D had no effect on glycemic traits at 2 years. Meta-analysis of 4 trials (n = 5205; 936 T2D cases) obtained HR = 0.89 (CI = 0.80, 0.99). In conclusion, Vitamin D supplementation did not reduce T2D in older US adults, but a mo",
+      "gold_title": "Vitamin D supplementation vs. placebo and incident type 2 diabetes in an ancillary study of the randomized Vitamin D and Omega-3 Trial.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/40199888/"
+    },
+    {
+      "question": "meta-analysis of vitamin supplements for cognition in healthy older adults",
+      "gold_pmid": "30556597",
+      "gold_text": "In total, we included 28 studies with more than 83,000 participants. There were some general limitations of the evidence. Most participants were enrolled in studies which were not designed primarily to assess cognition. These studies ofte",
+      "gold_title": "Vitamin and mineral supplementation for maintaining cognitive function in cognitively healthy people in mid and late life.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/30556597/"
+    },
+    {
+      "question": "Is there any evidence that vitamins helps fight COVID-19?",
+      "gold_pmid": "32842513",
+      "gold_text": "Vitamins A to E highlighted potentially beneficial roles in the fight against COVID-19 via antioxidant effects, immunomodulation, enhancing natural barriers, and local paracrine signaling. Level 1 and 2 evidence supports the use of thiamine, vitamin C, and vitamin D in COVID-like respiratory diseases, ARDS, and sepsis. Although there are currently no published clinical trials due to the novelty of SARS-CoV-2 infection, there is pathophysiologic rationale for exploring the use of vitamins in this global pandemic, supported by early anecdotal reports from international groups.",
+      "gold_title": "Could Vitamins Help in the Fight Against COVID-19?",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/32842513/"
+    },
+    {
+      "question": "Do multivitamins prevent long-COVID symptoms?",
+      "gold_pmid": "38732592",
+      "gold_text": "Overall, 37 articles were included: two regarded COVID-19 and long-COVID prevention and 35 records the COVID-19 management. The effects of vitamin D in preventing COVID-19 and long-COVID were contrasting. Similarly, no conclusion could be drawn on the efficacy of multivitamins, vitamin A, and vitamin B in COVID-19 management.",
+      "gold_title": "The Efficacy of Multivitamin, Vitamin A, Vitamin B, Vitamin C, and Vitamin D Supplements in the Prevention and Management of COVID-19 and Long-COVID: An Updated Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/38732592/"
+    },
+    {
+      "question": "Relationship between vit D supplementation and cancer mortality rates.",
+      "gold_pmid": "29635490",
+      "gold_text": "Thirty studies in 18,808 participants were included in the systematic review, with a median follow-up ranging from 1 to 6.2 y. The results of the meta-analysis for during-study events showed no evidence of an effect of vitamin D supplementation for cancer incidence (RR: 1.03; 95% CI: 0.91, 1.15) and cancer-related deaths (RR: 0.88; 95% CI: 0.70, 1.09). Including after-study events, the RRs were 1.02 (95% CI: 0.92, 1.13) and 0.86 (95% CI: 0.72, 1.03), respectively. These results did not appear to be affected by baseline 25-hydroxyvitamin D status, vitamin D dose, or the exclusion of open-label trials. CONCLUSION: We did not find evidence to suggest that vitamin D supplementation alone reduces the incidence of cancer or cancer mortality",
+      "gold_title": "Cancer and vitamin D supplementation: a systematic review and meta-analysis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/29635490/"
+    },
+    {
+      "question": "Is it better to take vitamin D daily or weekly to fix a deficiency?",
+      "gold_pmid": "39396907",
+      "gold_text": "Eight trials involving 542 patients were included in the analysis. Weekly and daily cholecalciferol were not significantly different in correcting hypovitaminosis D (OR = 1.5, 95% CI = 0.3-6.9, p = 0.6, favouring weekly dosing, I(2) = 85.3%). A sensitivity analysis excluding otherwise healthy patients had similar findings (OR = 0.8, 95% CI = 0.3-2.1, p = 0.6). Most studies were at risk of bias; the different doses being compared increased the heterogeneity. CONCLUSIONS: Limited direct evidence supports a switch from daily to weekly cholecalciferol dosing; however, weekly supplementation was not demonstrably worse at repleting levels and decreased a patient's daily pill burden.",
+      "gold_title": "Efficacy of weekly versus daily cholecalciferol for repleting serum vitamin D (25(OH)D) deficiency: A systematic review and meta-analysis of randomized controlled trials.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/39396907/"
+    },
+    {
+      "question": "vitamin d supplements and heart failure outcomes",
+      "gold_pmid": "25057156",
+      "gold_text": "In the trial analysis, we showed that, for the 5292 participants in the RECORD trial, HRs (95% CIs) for vitamin D compared with no vitamin D for cardiac failure, MI, and stroke were 0.75 (0.58, 0.97), 0.97 (0.75,1.26), and 1.06 (0.8, 1.32), respectively. Twenty-one studies met the inclusion criteria for the systematic review (n = 13,033). Estimated HRs (credible intervals) for vitamin D compared with the placebo or control for on-study events for cardiac failure, MI, and stroke were 0.82 (0.58, 1.15), 0.96 ( 0.83, 1.10), and 1.07 (0.91, 1.29), respectively. CONCLUSION: Vitamin D supplementation might protect against ca",
+      "gold_title": "Cardiovascular disease and vitamin D supplementation: trial analysis, systematic review, and meta-analysis.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/25057156/"
+    },
+    {
+      "question": "Does vitamin A affect cytokine levels in autoimmune diseases?",
+      "gold_pmid": "30473441",
+      "gold_text": "Fixed effect analysis of the WMD (95% CI) of the changes in gene expression showed that gene expression of the inflammatory (IL-17, IFN-gamma and T-bet) and anti-inflammatory (TGF-beta and FOXP3) cytokines significantly decreased and increased due to vitamin A supplementation in patients with autoimmune (Multiple sclerosis and atherosclerosis) diseases. CONCLUSIONS: Vitamin A supplementation effects on gene expression and may improve serum level of cytokines and clinical signs of autoimmune disease",
+      "gold_title": "A systematic review and meta-analysis of randomized controlled trials to evaluating the trend of cytokines to vitamin A supplementation in autoimmune diseases.",
+      "gold_url": "https://pubmed.ncbi.nlm.nih.gov/30473441/"
+    }
+  ]
+}
