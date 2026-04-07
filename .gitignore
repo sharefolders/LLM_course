@@ -212,3 +212,9 @@ __marimo__/
 
 # Gemini CLI
 .gemini/
+
+# >>> honeybadger managed runtime >>>
+.agents/
+.codex/
+AGENTS.md
+# <<< honeybadger managed runtime <<<
