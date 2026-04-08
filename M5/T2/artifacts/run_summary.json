@@ -1,0 +1,9 @@
+{
+  "tests_passed": true,
+  "test_results": {
+    "filename": "test_number_stats.py",
+    "returncode": 0,
+    "stdout": "TESTS_PASSED\n",
+    "stderr": ""
+  }
+}
